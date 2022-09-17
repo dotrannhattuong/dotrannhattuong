@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tuong
+- 🌱 I’m currently learning AI
+- 📫 How to reach me tuongdotn@gmail.com
